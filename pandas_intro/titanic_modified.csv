@@ -3,7 +3,7 @@ survived,pclass,name,sex,age,fare,sibsp,parch,new_col_sudh,fare_10dicount
 1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,71.2833,1,0,76.0,64.15497
 1,3,"Heikkinen, Miss. Laina",female,26.0,7.925,0,0,52.0,7.1325
 1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,53.1,1,0,70.0,47.79
-0,3,"Allen, Mr. William Henry",male,35.0,8.05,0,0,70.0,7.245000000000001
+0,3,"Allen Sony, Mr. William Henry",male,35.0,8.05,0,0,70.0,7.245000000000001
 0,1,"McCarthy, Mr. Timothy J",male,54.0,51.8625,0,0,108.0,46.676249999999996
 0,3,"Palsson, Master. Gosta Leonard",male,2.0,21.075,3,1,4.0,18.9675
 1,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,11.1333,0,2,54.0,10.01997
